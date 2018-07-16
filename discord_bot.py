@@ -1,7 +1,6 @@
 import discord
-from boto.s3.connection import S3Connection
 
-TOKEN = S3Connection(os.environ['TOKEN'])
+TOKEN = NDY1Mjg3MTU3ODMwMTIzNjA4.Di4UCQ.jvkIFtQWUnhE1mZNhnqkFwIxEVo
 
 
 client = discord.Client()
